@@ -1,0 +1,9 @@
+{
+  "name": "Denys",
+  "age": 32,
+  "address": {
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "country": "USA"
+  }
+}
